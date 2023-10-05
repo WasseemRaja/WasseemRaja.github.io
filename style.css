@@ -12,7 +12,7 @@ body {
     padding: 20px;
 }
 
-header {
+header:hover {
     text-align: center;
     background-color: #333;
     color: #fff;
